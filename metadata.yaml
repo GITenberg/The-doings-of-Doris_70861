@@ -1,0 +1,31 @@
+_repo: The-doings-of-Doris_70861
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Giberne, Agnes
+    birthdate: 1845
+    deathdate: 1939
+    gutenberg_agent_id: '47772'
+    url: http://www.gutenberg.org/2009/agents/47772
+    wikipedia: https://en.wikipedia.org/wiki/Agnes_Giberne
+description: ''
+gutenberg_issued: '2023-05-25'
+identifiers:
+  gutenberg: '70861'
+language: en
+pgterms:marc905: 20230515172543giberne
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bThe Religious Tract Society, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children of clergy -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Mountaineering -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The doings of Doris
+url: http://www.gutenberg.org/ebooks/70861
